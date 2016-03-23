@@ -20,7 +20,7 @@ int main(){
 	
 	
 		Card1.number(Cnum);
-		Card1.colour();
+		Card1.colour(Ccol);
 
 
 		Card1.print(Cnum,Ccol);
